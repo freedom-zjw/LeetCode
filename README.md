@@ -25,10 +25,10 @@ LeetCode 个人题解, 解法基于C++
 | 14.[Longest Common Prefix](1-50/14.Longest_Common_Prefix.md) |      Easy      |       string，dp       |
 | 15.[3Sum](1-50/15.3Sum.md)               |     Medium     |          dp           |
 | 16.[3Sum Closest](1-50/16.3Sum_Closest.md) |     Medium     |          dp           |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
+| 17.[Letter Combinations of a Phone Number](1-50/17.Letter_Combinations_of_a_Phone_Number.md) |     Medium     |     string、模拟、递归      |
+| 18.[4Sum](1-50/18.4Sum.md)               |     Medium     |          dp           |
+| 19.[Remove Nth Node From End of List](1-50/19.Remove_Nth_Node_From_End_of_List.md) |     Medium     |         List          |
+| 20.[Valid Parentheses](1-50/20.Valid_Parentheses.md) |      Easy      |         stack         |
 |                                          |                |                       |
 |                                          |                |                       |
 |                                          |                |                       |
