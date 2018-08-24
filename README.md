@@ -29,15 +29,15 @@ LeetCode 个人题解, 解法基于C++
 | 18.[4Sum](1-50/18.4Sum.md)               |     Medium     |          dp           |
 | 19.[Remove Nth Node From End of List](1-50/19.Remove_Nth_Node_From_End_of_List.md) |     Medium     |         List          |
 | 20.[Valid Parentheses](1-50/20.Valid_Parentheses.md) |      Easy      |         stack         |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
+| 21.[Merge Two Sorted Lists](1-50/21.Merge_Two_Sorted_Lists.md) |      Easy      |      merge sort       |
+| 22.[Generate Parentheses](1-50/22.Generate_Parentheses.md) |     Medium     |     recursion、dfs     |
+| 23.[Merge k Sorted Lists](1-50/23.Merge_k_Sorted_Lists.md) |      Hard      |       heap sort       |
+| 24.[Swap Nodes in Pairs](1-50/24.Swap_Nodes_in_Pairs.md) |     Medium     |     recursion、dfs     |
+| 25.[Reverse Nodes in k-Group](1-50/25.Reverse_Nodes_in_k-Group.md) |      Hard      |        list、模拟        |
+| 26.[Remove Duplicates from Sorted Array](1-50/26.Remove_Duplicates_from_Sorted_Array.md) |      Easy      |       模拟、有序序列去重       |
+| 27.[Remove Element](1-50/27.Remove_Element.md) |      Easy      |     模拟、去掉序列中指定元素      |
+| 28.[Implement strStr](1-50/28.Implement_strStr().md) |      Easy      |       暴力枚举/kmp        |
+| 29.[Divide Two Integers](1-50/29.Divide_Two_Integers.md) |     Medium     |          数学           |
 |                                          |                |                       |
 |                                          |                |                       |
 |                                          |                |                       |
