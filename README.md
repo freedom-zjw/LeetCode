@@ -38,17 +38,17 @@ LeetCode 个人题解, 解法基于C++
 | 27.[Remove Element](1-50/27.Remove_Element.md) |      Easy      |     模拟、去掉序列中指定元素      |
 | 28.[Implement strStr](1-50/28.Implement_strStr().md) |      Easy      |       暴力枚举/kmp        |
 | 29.[Divide Two Integers](1-50/29.Divide_Two_Integers.md) |     Medium     |          数学           |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
-|                                          |                |                       |
+| 30.[Substring with Concatenation of All Words](1-50/30.Substring_with_Concatenation_of_All_Words.md) |      Hard      |     string、模拟、map     |
+| 31.[Next Permutation](1-50/31.Next_Permutation.md) |     medium     |      stl or dfs       |
+| 32.[Long Valid Parentheses](1-50/32.Longest_Valid_Parentheses.md) |      Hard      |        栈、括号匹配         |
+| 33.[Search in Rotated Sorted Array](1-50/33.Search_in_Rotated_Sorted_Array.md) |     medium     |          二分           |
+| 34.[Find First and Last Position of Element in Sorted Array](1-50/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.md) |     medium     |          二分           |
+| 35.[Search Insert Position](1-50/35.Search_Insert_Position.md) |      Easy      |          二分           |
+| 36.[Valid Sudoku](1-50/36.Valid_Sudoku.md) |     Medium     |         Hash          |
+| 37.[Sudoku Solver](1-50/37.Sudoku_Solver.md) |      Hard      |      dfs、回溯+Hash      |
+| 38.[Count and Say](1-50/38.Count_and_Say.md) |      Easy      |        dfs、递归         |
+| 39.[Combination Sum](1-50/39.Combination_Sum.md) |     Medium     |        dfs、回溯         |
+| 40.[Combination Sum II](1-50/40.Combination_Sum_II.md) |     Medium     |        dfs、回溯         |
 |                                          |                |                       |
 |                                          |                |                       |
 |                                          |                |                       |
