@@ -58,6 +58,6 @@ LeetCode 个人题解, 解法基于C++
 | 47.[Permutations II](1-50/47.Permutations_II.md) |     Medium     |      dfs、回溯、hash      |
 | 48.[Rotate Image](1-50/48.Rotate_Image.md) |     Medium     |          模拟           |
 | 49.[Group Anagrams](1-50/49.Group_Anagrams.md) |     Medium     |         hash          |
-| 50.[Pow(x, n)](1-50/50.Pow(x,n).md)      |     Medium     |                       |
+| 50.[Pow(x, n)](1-50/50.Pow(x,n).md)      |     Medium     |          快速幂          |
 
 
