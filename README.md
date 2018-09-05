@@ -53,11 +53,12 @@ LeetCode 个人题解, 解法基于C++
 | 42.[Trapping Rain Water](1-50/42.Trapping_Rain_Water.md) |      Hard      |          dp           |
 | 43.[Multiply Strings](1-50/43.Multiply_Strings.md) |     Medium     |         高精度乘法         |
 | 44.[Wildcard Matching](1-50/44.Wildcard_Matching.md) |      Hard      |          dp           |
-| 45.[Jump Game II](1-50/45.Jump_Game_II.md) |      Hard      |        dp，单调队列        |
+| 45.[Jump Game II](1-50/45.Jump_Game_II.md) |      Hard      |         dp+贪心         |
 | 46.[Permutations](1-50/46.Permutations.md) |     Medium     |        dfs、回溯         |
 | 47.[Permutations II](1-50/47.Permutations_II.md) |     Medium     |      dfs、回溯、hash      |
 | 48.[Rotate Image](1-50/48.Rotate_Image.md) |     Medium     |          模拟           |
 | 49.[Group Anagrams](1-50/49.Group_Anagrams.md) |     Medium     |         hash          |
 | 50.[Pow(x, n)](1-50/50.Pow(x,n).md)      |     Medium     |          快速幂          |
 
+[1-50](README.md)&emsp;[51-100](51-100.md)
 
