@@ -60,5 +60,5 @@ LeetCode 个人题解, 解法基于C++
 | 49.[Group Anagrams](1-50/49.Group_Anagrams.md) |     Medium     |         hash          |
 | 50.[Pow(x, n)](1-50/50.Pow(x,n).md)      |     Medium     |          快速幂          |
 
-[1-50](README.md)&emsp;[51-100](51-100.md)
+[1-50](README.md)&emsp;[51-100](51-100.md)&emsp;[101-150](101-150.md)
 
